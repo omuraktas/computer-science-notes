@@ -1,2 +1,9 @@
-# computer-science-notes
-Basic computer science notes and short reports.
+# Computer Science Notes
+
+Bu repo, bilgisayar mühendisliği ve yazılım öğrenme sürecimde hazırladığım kısa notları içerir.
+
+## İçerikler
+
+- Bilgisayar Bileşenleri
+- İşletim Sistemi Temelleri
+- Ağ Temelleri
